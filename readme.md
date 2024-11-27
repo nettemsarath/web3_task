@@ -33,12 +33,3 @@ This project is an Express.js application that uses EJS as the templating engine
    - Below is a preview of the final user interface you will see on your screen:
 
    ![Final UI](output_image.png)
-
-## Additional Information
-
-- Ensure that you have Node.js installed on your machine before running the application.
-- If you encounter any issues, please check the console for error messages.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
