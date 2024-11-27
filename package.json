@@ -1,0 +1,17 @@
+{
+  "name": "web3-site",
+  "version": "1.0.0",
+  "description": "Web3 Wallet Connect Example",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "7zip-bin": "^5.2.0",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "web3": "^1.10.4"
+  }
+}
